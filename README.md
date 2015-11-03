@@ -1,0 +1,2 @@
+# Trie-
+Linear complexity 
